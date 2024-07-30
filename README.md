@@ -1,8 +1,8 @@
 
-# C++ SDL visual representation of different sorting mechanisms
+# C++ SDL Chaos game example
 
 
-### Bubble sort
+### Triangle - Sierpinski triangle
 
-![alt text](https://github.com/mmartincevic/VisualSorter/blob/main/resources/bubblesort.gif?raw=true)
+![alt text](https://github.com/mmartincevic/chaosgame/blob/main/resources/chaosgame.gif?raw=true)
 
